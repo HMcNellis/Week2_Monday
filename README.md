@@ -1,4 +1,4 @@
-#Outline for Monday 9/21
+#Outline for Monday 9/21 - Hanni
 - Review Wednesday's Exercise
 - Objects
 
